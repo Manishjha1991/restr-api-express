@@ -1,0 +1,23 @@
+{
+  "name": "restr-api-express-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manishjha1991/restr-api-express-docker.git"
+  },
+  "author": "Manishjha <mkjha9555@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manishjha1991/restr-api-express-docker/issues"
+  },
+  "homepage": "https://github.com/Manishjha1991/restr-api-express-docker#readme"
+}
